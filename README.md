@@ -4,6 +4,8 @@
 
 > **Live demo:** [vlog-explorer.vercel.app](https://vlog-explorer.vercel.app)
 
+![VlogSpotter Home](public/demo/home.png)
+
 ---
 
 ## Features
